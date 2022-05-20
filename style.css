@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+
+}
+
+.line {
+    background color: black;
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+
+}
+
+img {
+
+    transition: trasform 2s;
+
+
+}
+
+img:hover {
+    transform: scale(0.9);
+
+
+
+}
